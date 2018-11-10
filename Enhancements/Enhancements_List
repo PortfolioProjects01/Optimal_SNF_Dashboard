@@ -1,1 +1,19 @@
+------------------------Data Graphs------------------------|
+Add more data for time series graphs                       
+Refine/Change time series model 
+Add more data for clustering model 
+Refine/Tune clustering model 
 
+|------------------------UI--------------------------------|
+Add radio button for population and traffic view selection
+Fix choropleth legend 
+
+|------------------------Data Quality----------------------|
+Fix census tracts with 100% population density (unclean data)
+Fix census tracts with no poplutions 
+Fix "forecasted" ad "static" legend selectors
+Arrange Tract name data points to shoe county name first:
+county name - tract name
+
+|------------------------Deployment-----------------------|
+Publish to R server 

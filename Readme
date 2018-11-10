@@ -1,2 +1,4 @@
 
-This repository stores the files necessary for the Optimal Skilled Nursing Facility dashboard.
+This repository stores the files necessary for the Optimal Skilled Nursing Facility (SNF) dashboard.
+The Optimal SNF dashboard intends to locate the optimal location of a skilled nursing facility based on population trends and 
+existing skille nursing facilities.
